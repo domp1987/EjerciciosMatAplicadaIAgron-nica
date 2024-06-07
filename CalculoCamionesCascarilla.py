@@ -1,8 +1,8 @@
-r# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Created on Wed May 22 15:16:16 2024
 
-@author: Diego O Mendez P
+@author: Diego O Mendez P (DOMP)
 
 El software esta diseñado como apoyo docente o gestor de conocimiento, 
 con la generación de datos para el ejercicio, e impresión de parciales de
