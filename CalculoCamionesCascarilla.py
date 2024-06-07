@@ -2,7 +2,14 @@
 """
 Created on Wed May 22 15:16:16 2024
 
-@author: Portatil
+@author: Diego O Mendez P
+
+El software esta diseñado como apoyo docente o gestor de conocimiento, 
+con la generación de datos para el ejercicio, e impresión de parciales de
+resultado y la respuesta.
+
+
+
 """
 import random
 
