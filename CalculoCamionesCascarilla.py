@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+r# -*- coding: utf-8 -*-
 """
 Created on Wed May 22 15:16:16 2024
 
@@ -8,6 +8,15 @@ El software esta diseñado como apoyo docente o gestor de conocimiento,
 con la generación de datos para el ejercicio, e impresión de parciales de
 resultado y la respuesta.
 
+El ejercicio se plantea para un terreno de un área en hectares generada 
+aleatoriamente, con una capa vegetal tambien aleatoriamente, y para una planta 
+hipotetica que necesita una profundidad de la raiz, que debe ser completada con 
+cascarilla que esta en pacas comprimida 3 veces, y que se transporta en camiones
+y la respuesta es la cantidad de camiones a llenar.
+
+Tambien se pide cálcular el valor de la cascarilla, teniendo presente que el
+primer camión es cobrado con $1'500.000, y por cada paca adicional es cobrada 
+a $22.000. Se usa una linealización
 
 
 """
